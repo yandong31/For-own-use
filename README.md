@@ -2,9 +2,10 @@
 
 # 所有内容均来自互联网 不确保可用性
 
+# 本库fork自 https://github.com/Tartarus2014/For-own-use
+
 # 不要问我 啥都不会
 
-Tartarus2014发布的
 For-own-use项目中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
 
 间接使用脚本的任何用户，包括但不限于建立VPS或在某些行为违反国家/地区法律或相关法规的情况下进行传播, Tartarus2014 对于由此引起的任何隐私泄漏或其他后果概不负责.
@@ -22,6 +23,8 @@ Tartarus2014 对任何脚本问题概不负责，包括但不限于由任何脚�
 For-own-use项目的规则，则视为您已接受此免责声明.
 
 ### 特别感谢：
+* [@Tartarus2014](https://github.com/Tartarus2014/For-own-use)
+
 * [@NobyDa](https://github.com/NobyDa)
 
 * [@lhie1](https://github.com/lhie1)
